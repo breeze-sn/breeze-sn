@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @breeze-sn
+- 👋 Hi, I’m Simran
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning multimedia and animation
 - 😄 Pronouns: she/her

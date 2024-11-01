@@ -2,8 +2,8 @@
 
 **`Tech-Creative-Virtuaso (Game Developer/ Designer)`**
 
-Game development enthusiast currently pursuing Bachelor of Science in Computer Science with a focus on Multimedia & Animation at Reva University, Bangalore.
-  
+Game development enthusiast with proficiency in Unity, front-end development, and Adobe Creative Suite, as well as Autodesk Maya, focusing on terrain modeling and UI/UX design. Motivated to craft engaging gaming experiences while honing my skills and knowledge in game development. Open to collaboration and opportunities within the game development community.
+
 ---
 
 ### GSSOC(24) Badges 🪶

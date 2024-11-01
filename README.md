@@ -38,7 +38,7 @@ Game development enthusiast with proficiency in Unity, front-end development, an
             
 #
 
-### Connect with me
+### 📱 Connect with me
 
 <a href="https://www.facebook.com/simran.s.nagekar/" target="_blank">
     <img align="left" alt="Facebook" width="30px" style="padding-right:10px;" src="https://img.icons8.com/ios-filled/ffffff/facebook--v1.png" />

@@ -1,6 +1,7 @@
 # 🎮 Simran Nagekar
 
 **`Game Designer`**
+
 Game aficionado and creative technology enthusiast with a strong focus on design, development, and user experience. Currently pursuing a Bachelor of Science in Computer Science with a specialization in Multimedia and Animation at REVA University, Bangalore, with a keen interest in game design, testing, and user-centric digital experiences.
 
 ---

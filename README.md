@@ -1,8 +1,7 @@
 # 🎮 Simran Nagekar
 
 **`Tech-Creative-Virtuaso (Game Dev / UI Designer / Environment Modeller)`**
-
-Game development enthusiast with proficiency in Unity, front-end development, and Adobe Creative Suite, as well as Autodesk Maya, focusing on terrain modeling and UI/UX design. Motivated to craft engaging gaming experiences while honing my skills and knowledge in game development. Open to collaboration and opportunities within the game development community.
+Game development enthusiast with experience in game design, testing, and UI/UX design. Focused on creating user-centered experiences and intuitive interfaces. Actively seeking opportunities to contribute to game projects while continuing to grow within the game development community.
 
 ---
 

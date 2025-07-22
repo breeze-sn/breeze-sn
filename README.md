@@ -1,7 +1,7 @@
 # 🎮 Simran Nagekar
 
-**`Tech-Creative-Virtuaso (Game Dev / UI Designer / Environment Modeller)`**
-Game development enthusiast with experience in game design, testing, and UI/UX design. Focused on creating user-centered experiences and intuitive interfaces. Actively seeking opportunities to contribute to game projects while continuing to grow within the game development community.
+**`Game Designer`**
+Game aficionado and creative technology enthusiast with a strong focus on design, development, and user experience. Currently pursuing a Bachelor of Science in Computer Science with a specialization in Multimedia and Animation at REVA University, Bangalore, with a keen interest in game design, testing, and user-centric digital experiences.
 
 ---
 

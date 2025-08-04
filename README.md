@@ -15,17 +15,12 @@
 
 ### 📱 Socials
 
-<p>
-  <a href="https://www.behance.net/simrannagekar" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/ffffff/behance.png" alt="Behance" width="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/simransn/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/ffffff/linkedin.png" alt="LinkedIn" width="30" />
-  </a>
-  <a href="https://github.com/breeze-sn" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/ffffff/github.png" alt="GitHub" width="30" />
-  </a>
-</p>
+### 📱 Connect with me
+
+[![Behance](https://img.shields.io/badge/Behance-121212?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/simrannagekar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simransn/)
+[![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white)](https://github.com/breeze-sn)
+
 
 ---
 

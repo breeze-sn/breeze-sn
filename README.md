@@ -5,6 +5,7 @@
 🎮 Exploring game design, UX, and creative tech  
 📍 Bangalore · Multimedia & Animation
 
+<br/>
 
 ### 🎯 I work on:
 
@@ -13,6 +14,7 @@
 🎨 UI/UX Design  
 🌐 Web Design
 
+<br/>
 
 ### 🌐 Connect & Explore
 
@@ -31,3 +33,5 @@
 <a href="https://bento.me/breezee" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Bento-111111?style=for-the-badge&logo=bento&logoColor=white" />
 </a>
+
+<br/>

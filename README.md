@@ -31,8 +31,9 @@
 
 ### 📌 Bento
 
-<p>
+<p align="center">
   <a href="https://bento.me/breezee" target="_blank">
-    <img src="https://img.shields.io/badge/Everything%20you%20need%20-%20bento.me%2Fbreezee-%230056b3?style=for-the-badge&logo=bento&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore%20my%20work%20-%20bento.me%2Fbreezee-%23606060?style=for-the-badge&logo=bento&logoColor=white" />
   </a>
 </p>
+

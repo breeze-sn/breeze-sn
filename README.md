@@ -1,27 +1,19 @@
 <h1 align="center">Simran Nagekar</h1>
 
-<p align="center"><i>Game aficionado & creative technology explorer</i></p>
-
-<p align="center">
-🎮 Exploring game development, UI/UX, and digital design.  
-📍 Based in Bangalore | 📚 Multimedia & Animation @ REVA University
-</p>
+<p align="center"><i>Game aficionado & creative tech explorer</i></p>
 
 ---
 
-### 🧰 Tools & Technologies
+### 🎯 What I Do
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="Photoshop" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" title="Illustrator" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" title="Unity" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" title="Maya" width="30" />
-</p>
+- 🎮 Game Design  
+- 🧪 Game Testing  
+- 🎨 UI/UX Design  
+- 🌐 Web Design  
 
 ---
 
-### 📱 Connect
+### 📱 Socials
 
 <p>
   <a href="https://www.behance.net/simrannagekar" target="_blank">
@@ -30,12 +22,6 @@
   <a href="https://www.linkedin.com/in/simransn/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/ffffff/linkedin.png" alt="LinkedIn" width="30" />
   </a>
-  <a href="https://x.com/s1mran0" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/ffffff/twitter.png" alt="X" width="30" />
-  </a>
-  <a href="https://www.instagram.com/simran.nagekar" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/ffffff/instagram-new.png" alt="Instagram" width="30" />
-  </a>
   <a href="https://github.com/breeze-sn" target="_blank">
     <img src="https://img.icons8.com/ios-filled/ffffff/github.png" alt="GitHub" width="30" />
   </a>
@@ -43,9 +29,10 @@
 
 ---
 
-### 📌 Everything you need is here:
+### 📌 Bento
+
 <p>
   <a href="https://bento.me/breezee" target="_blank">
-    <img src="https://img.shields.io/badge/Bento%20Link-Click%20Here-%230056b3?style=for-the-badge&logo=bento&logoColor=white" />
+    <img src="https://img.shields.io/badge/Everything%20you%20need%20-%20bento.me%2Fbreezee-%230056b3?style=for-the-badge&logo=bento&logoColor=white" />
   </a>
 </p>

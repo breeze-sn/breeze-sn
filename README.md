@@ -6,10 +6,8 @@
 
 ### 🎯 What I Do
 
-- 🎮 Game Design  
-- 🧪 Game Testing  
-- 🎨 UI/UX Design  
-- 🌐 Web Design  
+| 🎮 Game Design | 🧪 Game Testing | 🎨 UI/UX Design | 🌐 Web Design |
+|:--------------:|:--------------:|:---------------:|:-------------:|
 
 ---
 

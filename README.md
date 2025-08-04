@@ -5,7 +5,7 @@
 🎮 Exploring game design, UX, and creative tech  
 📍 Bangalore · Multimedia & Animation
 
-<br/>
+
 
 ### 🎯 I work on:
 
@@ -14,7 +14,7 @@
 🎨 UI/UX Design  
 🌐 Web Design
 
-<br/>
+
 
 ### 🌐 Connect & Explore
 
@@ -34,4 +34,4 @@
   <img src="https://img.shields.io/badge/Bento-111111?style=for-the-badge&logo=bento&logoColor=white" />
 </a>
 
-<br/>
+

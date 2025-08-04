@@ -30,11 +30,10 @@
 ---
 
 ### 📌 Explore more
-
 <p>
   <a href="https://bento.me/breezee" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/bento.png" width="20"/>
-    <span>&nbsp; bento.me/breezee</span>
+    <img src="https://img.shields.io/badge/bento.me/breezee-Click%20Here-111111?style=for-the-badge&logo=bento&logoColor=white" />
   </a>
 </p>
+
 

@@ -15,12 +15,9 @@
 
 ### 📱 Socials
 
-### 📱 Connect with me
-
 [![Behance](https://img.shields.io/badge/Behance-121212?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/simrannagekar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simransn/)
 [![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white)](https://github.com/breeze-sn)
-
 
 ---
 

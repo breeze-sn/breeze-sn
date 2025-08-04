@@ -1,12 +1,10 @@
 <h1 align="center">Simran Nagekar</h1>
 
 <p align="center"><i>Game aficionado & creative tech explorer</i></p>
-
-
-### 🎯 What I Do
-
-| 🎮 Game Design | 🧪 Game Testing | 🎨 UI/UX Design | 🌐 Web Design |
-|:--------------:|:--------------:|:---------------:|:-------------:|
+<p align="center">
+  🎮 Exploring game design, UX, and creative tech  
+  📍 Bangalore · Multimedia & Animation
+</p>
 
 
 ### 🌐 Connect & Explore
@@ -16,4 +14,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Bento-111111?style=for-the-badge&logo=bento&logoColor=white" />
+</p>

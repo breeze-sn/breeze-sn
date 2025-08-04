@@ -6,10 +6,16 @@
   📍 Bangalore · Multimedia & Animation
 </p>
 
+### 🎯 I work on:
+
+🎮 Game Design  
+🧪 Game Testing  
+🎨 UI/UX Design  
+🌐 Web Design
 
 ### 🌐 Connect & Explore
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Behance-111111?style=for-the-badge&logo=behance&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />

@@ -5,7 +5,6 @@
 🎮 Exploring game design, UX, and creative tech  
 📍 Bangalore · Multimedia & Animation
 
----
 
 ### 🎯 I work on:
 
@@ -14,7 +13,6 @@
 🎨 UI/UX Design  
 🌐 Web Design
 
----
 
 ### 🌐 Connect & Explore
 
